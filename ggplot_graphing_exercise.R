@@ -1,3 +1,5 @@
+# this is a graphing exercise for the ESIP bootcamp 
+
 library("ggplot2", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")
 
 data(diamonds)
